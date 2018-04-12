@@ -1,0 +1,11 @@
+{
+  "name": "element-ui-scope",
+  "version": "1.0.1",
+  "description": "Add your own domain to element-ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xinbin.zhang",
+  "license": "ISC"
+}
